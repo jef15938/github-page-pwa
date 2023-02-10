@@ -1,6 +1,6 @@
 {
   "name": "Github Page PWA",
-  "short_name": "GPPWA",
+  "short_name": "新光關係機構",
   "description": "Github Page as a Progressive Web App",
   "scope": "/github-page-pwa/",
   "start_url": "/github-page-pwa/",
@@ -9,7 +9,7 @@
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/github-page-pwa/img/logo.png",
         "type": "image/png",
         "sizes": "700x700"
       }
